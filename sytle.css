@@ -1,0 +1,60 @@
+*{
+    font-family: "Noto Sans", sans-serif;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    margin-right: 100px;
+}
+.brand{
+    margin-left: 200px;
+}
+.nav_button{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+.button2 button{
+    background: orange;
+    color: aliceblue;
+    
+}
+.heading{
+    margin: 200px;
+    margin-left: 300px;
+    width: 400px;
+
+}
+.heading button{
+    padding: 15px;
+    background: orange;
+    border: none;
+    color: aliceblue;
+    
+}
+main{
+    height: 600px;
+}
+.services{
+    text-align: center;
+    background-color: rgb(225, 225, 225);
+    color: grey;
+
+ 
+}
+h3{
+    padding: 40px;
+}
+.content{
+    width: 200px;
+}
+.content1{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.service1{
+    padding-bottom: 10000px;
+}
