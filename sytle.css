@@ -18,11 +18,12 @@
 .button2 button{
     background: orange;
     color: aliceblue;
+    border: 0;
     
 }
 .heading{
-    margin: 200px;
-    margin-left: 300px;
+    margin-top: 150px;
+    margin-left: 350px;
     width: 400px;
 
 }
@@ -33,17 +34,16 @@
     color: aliceblue;
     
 }
-main{
-    height: 600px;
-}
+
 .services{
     text-align: center;
     background-color: rgb(225, 225, 225);
     color: grey;
+    padding: 100px;
 
  
 }
-h3{
+.services h3{
     padding: 40px;
 }
 .content{
@@ -55,6 +55,58 @@ h3{
     justify-content: center;
     gap: 10px;
 }
-.service1{
-    padding-bottom: 10000px;
+.section{
+    padding-top: 70px;
+    margin-left:300px ;
+    margin-right:300px ;
+}
+.span{
+    text-decoration: underline;
+    
+}
+.span span{
+    padding-bottom: 9px;
+
+}
+.col-6 .section_img img{
+    border: 0;
+    border-radius: 50%;
+
+}
+.section .row{
+    padding-top: 150px;
+}
+.col-6 .section_img1 img{
+    margin-top: 50px;
+    margin-left: 100px;
+    border: 0;
+    border-radius: 50%;
+}
+.modern{
+    margin-top: 100px;
+    
+    padding: 100px;
+    background-color:rgb(205, 205, 205);
+    
+}
+.footer2{
+    
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    
+}
+.footer{
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+
+}
+.brandname{
+    width: 350px; 
 }
